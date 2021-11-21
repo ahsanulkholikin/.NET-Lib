@@ -1,0 +1,16 @@
+C:\Users\Hsans\source\repos\Lat5\Lat5\bin\Debug\netcoreapp3.1\Lat5.exe
+C:\Users\Hsans\source\repos\Lat5\Lat5\bin\Debug\netcoreapp3.1\Lat5.deps.json
+C:\Users\Hsans\source\repos\Lat5\Lat5\bin\Debug\netcoreapp3.1\Lat5.runtimeconfig.json
+C:\Users\Hsans\source\repos\Lat5\Lat5\bin\Debug\netcoreapp3.1\Lat5.runtimeconfig.dev.json
+C:\Users\Hsans\source\repos\Lat5\Lat5\bin\Debug\netcoreapp3.1\Lat5.dll
+C:\Users\Hsans\source\repos\Lat5\Lat5\bin\Debug\netcoreapp3.1\Lat5.pdb
+C:\Users\Hsans\source\repos\Lat5\Lat5\obj\Debug\netcoreapp3.1\Lat5.csproj.AssemblyReference.cache
+C:\Users\Hsans\source\repos\Lat5\Lat5\obj\Debug\netcoreapp3.1\Lat5.Form1.resources
+C:\Users\Hsans\source\repos\Lat5\Lat5\obj\Debug\netcoreapp3.1\Lat5.csproj.GenerateResource.cache
+C:\Users\Hsans\source\repos\Lat5\Lat5\obj\Debug\netcoreapp3.1\Lat5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hsans\source\repos\Lat5\Lat5\obj\Debug\netcoreapp3.1\Lat5.AssemblyInfoInputs.cache
+C:\Users\Hsans\source\repos\Lat5\Lat5\obj\Debug\netcoreapp3.1\Lat5.AssemblyInfo.cs
+C:\Users\Hsans\source\repos\Lat5\Lat5\obj\Debug\netcoreapp3.1\Lat5.csproj.CoreCompileInputs.cache
+C:\Users\Hsans\source\repos\Lat5\Lat5\obj\Debug\netcoreapp3.1\Lat5.dll
+C:\Users\Hsans\source\repos\Lat5\Lat5\obj\Debug\netcoreapp3.1\Lat5.pdb
+C:\Users\Hsans\source\repos\Lat5\Lat5\obj\Debug\netcoreapp3.1\Lat5.genruntimeconfig.cache

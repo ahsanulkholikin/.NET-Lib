@@ -1,0 +1,16 @@
+C:\Users\Hsans\source\repos\TgsPrak1\TgsPrak1\bin\Debug\netcoreapp3.1\TgsPrak1.exe
+C:\Users\Hsans\source\repos\TgsPrak1\TgsPrak1\bin\Debug\netcoreapp3.1\TgsPrak1.deps.json
+C:\Users\Hsans\source\repos\TgsPrak1\TgsPrak1\bin\Debug\netcoreapp3.1\TgsPrak1.runtimeconfig.json
+C:\Users\Hsans\source\repos\TgsPrak1\TgsPrak1\bin\Debug\netcoreapp3.1\TgsPrak1.runtimeconfig.dev.json
+C:\Users\Hsans\source\repos\TgsPrak1\TgsPrak1\bin\Debug\netcoreapp3.1\TgsPrak1.dll
+C:\Users\Hsans\source\repos\TgsPrak1\TgsPrak1\bin\Debug\netcoreapp3.1\TgsPrak1.pdb
+C:\Users\Hsans\source\repos\TgsPrak1\TgsPrak1\obj\Debug\netcoreapp3.1\TgsPrak1.csproj.AssemblyReference.cache
+C:\Users\Hsans\source\repos\TgsPrak1\TgsPrak1\obj\Debug\netcoreapp3.1\TgsPrak1.Form1.resources
+C:\Users\Hsans\source\repos\TgsPrak1\TgsPrak1\obj\Debug\netcoreapp3.1\TgsPrak1.csproj.GenerateResource.cache
+C:\Users\Hsans\source\repos\TgsPrak1\TgsPrak1\obj\Debug\netcoreapp3.1\TgsPrak1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hsans\source\repos\TgsPrak1\TgsPrak1\obj\Debug\netcoreapp3.1\TgsPrak1.AssemblyInfoInputs.cache
+C:\Users\Hsans\source\repos\TgsPrak1\TgsPrak1\obj\Debug\netcoreapp3.1\TgsPrak1.AssemblyInfo.cs
+C:\Users\Hsans\source\repos\TgsPrak1\TgsPrak1\obj\Debug\netcoreapp3.1\TgsPrak1.csproj.CoreCompileInputs.cache
+C:\Users\Hsans\source\repos\TgsPrak1\TgsPrak1\obj\Debug\netcoreapp3.1\TgsPrak1.dll
+C:\Users\Hsans\source\repos\TgsPrak1\TgsPrak1\obj\Debug\netcoreapp3.1\TgsPrak1.pdb
+C:\Users\Hsans\source\repos\TgsPrak1\TgsPrak1\obj\Debug\netcoreapp3.1\TgsPrak1.genruntimeconfig.cache

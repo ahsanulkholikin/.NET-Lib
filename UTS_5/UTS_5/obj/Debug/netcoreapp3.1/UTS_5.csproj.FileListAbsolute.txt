@@ -1,0 +1,16 @@
+C:\Users\Hsans\source\repos\UTS_5\UTS_5\bin\Debug\netcoreapp3.1\UTS_5.exe
+C:\Users\Hsans\source\repos\UTS_5\UTS_5\bin\Debug\netcoreapp3.1\UTS_5.deps.json
+C:\Users\Hsans\source\repos\UTS_5\UTS_5\bin\Debug\netcoreapp3.1\UTS_5.runtimeconfig.json
+C:\Users\Hsans\source\repos\UTS_5\UTS_5\bin\Debug\netcoreapp3.1\UTS_5.runtimeconfig.dev.json
+C:\Users\Hsans\source\repos\UTS_5\UTS_5\bin\Debug\netcoreapp3.1\UTS_5.dll
+C:\Users\Hsans\source\repos\UTS_5\UTS_5\bin\Debug\netcoreapp3.1\UTS_5.pdb
+C:\Users\Hsans\source\repos\UTS_5\UTS_5\obj\Debug\netcoreapp3.1\UTS_5.csproj.AssemblyReference.cache
+C:\Users\Hsans\source\repos\UTS_5\UTS_5\obj\Debug\netcoreapp3.1\UTS_5.Form1.resources
+C:\Users\Hsans\source\repos\UTS_5\UTS_5\obj\Debug\netcoreapp3.1\UTS_5.csproj.GenerateResource.cache
+C:\Users\Hsans\source\repos\UTS_5\UTS_5\obj\Debug\netcoreapp3.1\UTS_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hsans\source\repos\UTS_5\UTS_5\obj\Debug\netcoreapp3.1\UTS_5.AssemblyInfoInputs.cache
+C:\Users\Hsans\source\repos\UTS_5\UTS_5\obj\Debug\netcoreapp3.1\UTS_5.AssemblyInfo.cs
+C:\Users\Hsans\source\repos\UTS_5\UTS_5\obj\Debug\netcoreapp3.1\UTS_5.csproj.CoreCompileInputs.cache
+C:\Users\Hsans\source\repos\UTS_5\UTS_5\obj\Debug\netcoreapp3.1\UTS_5.dll
+C:\Users\Hsans\source\repos\UTS_5\UTS_5\obj\Debug\netcoreapp3.1\UTS_5.pdb
+C:\Users\Hsans\source\repos\UTS_5\UTS_5\obj\Debug\netcoreapp3.1\UTS_5.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Hsans\source\repos\LatPrak2\LatPrak2\bin\Debug\netcoreapp3.1\LatPrak2.exe
+C:\Users\Hsans\source\repos\LatPrak2\LatPrak2\bin\Debug\netcoreapp3.1\LatPrak2.deps.json
+C:\Users\Hsans\source\repos\LatPrak2\LatPrak2\bin\Debug\netcoreapp3.1\LatPrak2.runtimeconfig.json
+C:\Users\Hsans\source\repos\LatPrak2\LatPrak2\bin\Debug\netcoreapp3.1\LatPrak2.runtimeconfig.dev.json
+C:\Users\Hsans\source\repos\LatPrak2\LatPrak2\bin\Debug\netcoreapp3.1\LatPrak2.dll
+C:\Users\Hsans\source\repos\LatPrak2\LatPrak2\bin\Debug\netcoreapp3.1\LatPrak2.pdb
+C:\Users\Hsans\source\repos\LatPrak2\LatPrak2\obj\Debug\netcoreapp3.1\LatPrak2.csproj.AssemblyReference.cache
+C:\Users\Hsans\source\repos\LatPrak2\LatPrak2\obj\Debug\netcoreapp3.1\LatPrak2.Form1.resources
+C:\Users\Hsans\source\repos\LatPrak2\LatPrak2\obj\Debug\netcoreapp3.1\LatPrak2.csproj.GenerateResource.cache
+C:\Users\Hsans\source\repos\LatPrak2\LatPrak2\obj\Debug\netcoreapp3.1\LatPrak2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hsans\source\repos\LatPrak2\LatPrak2\obj\Debug\netcoreapp3.1\LatPrak2.AssemblyInfoInputs.cache
+C:\Users\Hsans\source\repos\LatPrak2\LatPrak2\obj\Debug\netcoreapp3.1\LatPrak2.AssemblyInfo.cs
+C:\Users\Hsans\source\repos\LatPrak2\LatPrak2\obj\Debug\netcoreapp3.1\LatPrak2.csproj.CoreCompileInputs.cache
+C:\Users\Hsans\source\repos\LatPrak2\LatPrak2\obj\Debug\netcoreapp3.1\LatPrak2.dll
+C:\Users\Hsans\source\repos\LatPrak2\LatPrak2\obj\Debug\netcoreapp3.1\LatPrak2.pdb
+C:\Users\Hsans\source\repos\LatPrak2\LatPrak2\obj\Debug\netcoreapp3.1\LatPrak2.genruntimeconfig.cache
