@@ -1,0 +1,17 @@
+C:\Users\Hsans\source\repos\Prak8\Prak8\bin\Debug\netcoreapp3.1\Prak8.exe
+C:\Users\Hsans\source\repos\Prak8\Prak8\bin\Debug\netcoreapp3.1\Prak8.deps.json
+C:\Users\Hsans\source\repos\Prak8\Prak8\bin\Debug\netcoreapp3.1\Prak8.runtimeconfig.json
+C:\Users\Hsans\source\repos\Prak8\Prak8\bin\Debug\netcoreapp3.1\Prak8.runtimeconfig.dev.json
+C:\Users\Hsans\source\repos\Prak8\Prak8\bin\Debug\netcoreapp3.1\Prak8.dll
+C:\Users\Hsans\source\repos\Prak8\Prak8\bin\Debug\netcoreapp3.1\Prak8.pdb
+C:\Users\Hsans\source\repos\Prak8\Prak8\obj\Debug\netcoreapp3.1\Prak8.csproj.AssemblyReference.cache
+C:\Users\Hsans\source\repos\Prak8\Prak8\obj\Debug\netcoreapp3.1\Prak8.Form1.resources
+C:\Users\Hsans\source\repos\Prak8\Prak8\obj\Debug\netcoreapp3.1\Prak8.Properties.Resources.resources
+C:\Users\Hsans\source\repos\Prak8\Prak8\obj\Debug\netcoreapp3.1\Prak8.csproj.GenerateResource.cache
+C:\Users\Hsans\source\repos\Prak8\Prak8\obj\Debug\netcoreapp3.1\Prak8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hsans\source\repos\Prak8\Prak8\obj\Debug\netcoreapp3.1\Prak8.AssemblyInfoInputs.cache
+C:\Users\Hsans\source\repos\Prak8\Prak8\obj\Debug\netcoreapp3.1\Prak8.AssemblyInfo.cs
+C:\Users\Hsans\source\repos\Prak8\Prak8\obj\Debug\netcoreapp3.1\Prak8.csproj.CoreCompileInputs.cache
+C:\Users\Hsans\source\repos\Prak8\Prak8\obj\Debug\netcoreapp3.1\Prak8.dll
+C:\Users\Hsans\source\repos\Prak8\Prak8\obj\Debug\netcoreapp3.1\Prak8.pdb
+C:\Users\Hsans\source\repos\Prak8\Prak8\obj\Debug\netcoreapp3.1\Prak8.genruntimeconfig.cache
