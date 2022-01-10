@@ -24,3 +24,4 @@ C:\Users\Hsans\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\r
 C:\Users\Hsans\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.pdb
 C:\Users\Hsans\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.genruntimeconfig.cache
 C:\Users\Hsans\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.Properties.Resources.resources
+C:\Users\Hsans\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.Form2.resources
